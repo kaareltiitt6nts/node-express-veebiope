@@ -1,4 +1,4 @@
 node_modules/
 nodejs/node_modules/
 express/node_modules/
-.env
+express/.env
